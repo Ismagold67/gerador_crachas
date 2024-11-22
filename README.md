@@ -92,7 +92,7 @@ Para alterar posicionamentos e estilos, edite as configurações no dicionário 
 
 MIT License
 
-Copyright (c) [ano] [nome completo]
+Copyright (c) 2024 Ismael Roberto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
